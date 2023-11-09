@@ -15,9 +15,14 @@ Este padrão tem dois componentes principais: a interface Strategy e a classe Co
 O Builder é um padrão criacional muito similar ao método factory este organiza a criação
 do objetos em etapas fora de sua própria classe e mova ele para objetos separados chamados builders. 
 
+## Adapter
+
+O padrão Adapter permite que você crie uma classe de meio termo que serve como um tradutor entre seu código e a classe antiga, uma classe de terceiros, ou qualquer outra classe com uma interface estranha.
+
 ## Referências
 
 - [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/strategy) - Strategy
 - [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/builder) - Builder
+- [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/adapter) - Adapter
 - [Java67](https://www.java67.com/2014/12/strategy-pattern-in-java-with-example.html) - How to use Strategy Design Pattern in Java
 - [javarevisited](https://javarevisited.blogspot.com/2020/05/top-10-educative-courses-for-programmers.html#axzz8IV7nH73K) - Builder design pattern in Java
