@@ -12,6 +12,11 @@ O Strategy é um padrão de projeto comportamental que permite que você defina 
 
 Este padrão tem dois componentes principais: a interface Strategy e a classe Context. A interface Strategy declara o tipo de algoritmo, que pode ser uma classe abstrata ou uma interface.
 
+***Exemplo***
+
+Um exemplo desse padrão de projeto em java está disponível [aqui](https://github.com/andersonhsporto/design-patterns-java/tree/main/src/strategy) onde foi implementado uma strategy
+para algoritmos de ordenação.
+
 ## Criacional
 
 ### Builder
@@ -19,11 +24,22 @@ Este padrão tem dois componentes principais: a interface Strategy e a classe Co
 O Builder é um padrão criacional muito similar ao método factory este organiza a criação
 do objetos em etapas fora de sua própria classe e mova ele para objetos separados chamados builders. 
 
+***Exemplo***
+
+Um exemplo desse padrão de projeto em java está disponível [aqui](https://github.com/andersonhsporto/design-patterns-java/tree/main/src/builder).
+
+
+
 ## Estrutural
 
 ### Adapter
 
 O padrão Adapter permite que você crie uma classe de meio termo que serve como um tradutor entre seu código e a classe antiga, uma classe de terceiros, ou qualquer outra classe com uma interface estranha.
+
+***Exemplo***
+
+Um exemplo desse padrão de projeto em java está disponível [aqui](https://github.com/andersonhsporto/design-patterns-java/tree/main/src/adapter) onde neste foi implementado
+um adpter para dois sistemas de coordenadas distintos.
 
 ## Referências
 
