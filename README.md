@@ -1,13 +1,13 @@
 # Padrões de projeto em Java
 
-Alguns exemplos de padrões de projeto feito na linguagem java
+Alguns exemplos de padrões de projetos feito na linguagem java
 para aprendizado.
 
 ## Comportamental
 
 ### Strategy
 
-O Strategy é um padrão de projeto comportamental que permite que você defina uma família de algoritmos, coloque-os em classes separadas, e faça os objetos deles intercambiáveis
+O Strategy é um padrão de projeto comportamental que permite que você defina uma família de algoritmos, coloque-os em classes separadas, e faça estes objetos serem intercambiáveis
 [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/strategy).
 
 Este padrão tem dois componentes principais: a interface Strategy e a classe Context. A interface Strategy declara o tipo de algoritmo, que pode ser uma classe abstrata ou uma interface.
@@ -39,7 +39,7 @@ O padrão Adapter permite que você crie uma classe de meio termo que serve como
 ***Exemplo***
 
 Um exemplo desse padrão de projeto em java está disponível [aqui](https://github.com/andersonhsporto/design-patterns-java/tree/main/src/adapter) onde neste foi implementado
-um adpter para dois sistemas de coordenadas distintos.
+um adapter para dois sistemas de coordenadas distintos.
 
 ## Referências
 
