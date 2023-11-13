@@ -1,7 +1,10 @@
-# Padrões de projeto em Java
+# Padrões de projeto
 
-Alguns exemplos de padrões de projetos feito na linguagem java
-para aprendizado.
+Alguns exemplos de padrões de projetos elaborados
+para fins de estudo.
+
+Baseado no repositorio
+[algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) elaborado por [Kelvin](https://github.com/kelvins).
 
 ## Comportamental
 
@@ -12,7 +15,7 @@ O Strategy é um padrão de projeto comportamental que permite que você defina 
 
 Este padrão tem dois componentes principais: a interface Strategy e a classe Context. A interface Strategy declara o tipo de algoritmo, que pode ser uma classe abstrata ou uma interface.
 
-***Exemplo***
+**_Exemplo_**
 
 Um exemplo desse padrão de projeto em java está disponível [aqui](https://github.com/andersonhsporto/design-patterns-java/tree/main/src/strategy) onde foi implementado uma strategy
 para algoritmos de ordenação.
@@ -22,13 +25,11 @@ para algoritmos de ordenação.
 ### Builder
 
 O Builder é um padrão criacional muito similar ao método factory este organiza a criação
-do objetos em etapas fora de sua própria classe e mova ele para objetos separados chamados builders. 
+do objetos em etapas fora de sua própria classe e mova ele para objetos separados chamados builders.
 
-***Exemplo***
+**_Exemplo_**
 
 Um exemplo desse padrão de projeto em java está disponível [aqui](https://github.com/andersonhsporto/design-patterns-java/tree/main/src/builder).
-
-
 
 ## Estrutural
 
@@ -36,29 +37,17 @@ Um exemplo desse padrão de projeto em java está disponível [aqui](https://git
 
 O padrão Adapter permite que você crie uma classe de meio termo que serve como um tradutor entre seu código e a classe antiga, uma classe de terceiros, ou qualquer outra classe com uma interface estranha.
 
-***Exemplo***
+**_Exemplo_**
 
 Um exemplo desse padrão de projeto em java está disponível [aqui](https://github.com/andersonhsporto/design-patterns-java/tree/main/src/adapter) onde neste foi implementado
 um adapter para dois sistemas de coordenadas distintos.
 
-## Referências
-
-- [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/strategy) - Strategy
-- [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/builder) - Builder
-- [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/adapter) - Adapter
-- [Java67](https://www.java67.com/2014/12/strategy-pattern-in-java-with-example.html) - How to use Strategy Design Pattern in Java
-- [javarevisited](https://javarevisited.blogspot.com/2020/05/top-10-educative-courses-for-programmers.html#axzz8IV7nH73K) - Builder design pattern in Java
-- [javarevisited](https://javarevisited.blogspot.com/2016/08/adapter-design-pattern-in-java-example.html#axzz8IgC9exUn) - Adapter design pattern in Java
-
-
-
-## Table
-
+## Tabela de conteúdos
 
 <html>
     <table align="center">
         <tr>
-            <td align="center">Creational Design Patterns</td>
+            <td align="center">Padrões de Projeto Criacional</td>
             <td align="center">
                 <a href="https://www.sololearn.com/compiler-playground/c">
                     <img align="center" height="25" src="./logos/c.svg" />
@@ -408,7 +397,7 @@ um adapter para dois sistemas de coordenadas distintos.
     </table>
     <table align="center">
         <tr>
-            <td align="center">Structural Design Patterns</td>
+            <td align="center">Padrões de Projeto Estrutural</td>
             <td align="center">
                 <a href="https://www.sololearn.com/compiler-playground/c">
                     <img align="center" height="25" src="./logos/c.svg" />
@@ -874,7 +863,7 @@ um adapter para dois sistemas de coordenadas distintos.
     </table>
     <table align="center">
         <tr>
-            <td align="center">Behavioral Design Patterns</td>
+            <td align="center">Padrões de Projeto Comportamental</td>
             <td align="center">
                 <a href="https://www.sololearn.com/compiler-playground/c">
                     <img align="center" height="25" src="./logos/c.svg" />
@@ -1339,3 +1328,12 @@ um adapter para dois sistemas de coordenadas distintos.
         </tr>
     </table>
 </html>
+
+## Referências
+
+- [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/strategy) - Strategy
+- [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/builder) - Builder
+- [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/adapter) - Adapter
+- [Java67](https://www.java67.com/2014/12/strategy-pattern-in-java-with-example.html) - How to use Strategy Design Pattern in Java
+- [javarevisited](https://javarevisited.blogspot.com/2020/05/top-10-educative-courses-for-programmers.html#axzz8IV7nH73K) - Builder design pattern in Java
+- [javarevisited](https://javarevisited.blogspot.com/2016/08/adapter-design-pattern-in-java-example.html#axzz8IgC9exUn) - Adapter design pattern in Java
