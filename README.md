@@ -233,7 +233,7 @@ um adapter para dois sistemas de coordenadas distintos.
                 </a>
             </td>
             <td> <!-- Java -->
-                <a href="https://github.com/andersonhsporto/design-patterns-java/tree/2-general-readme/src/java/builder">
+                <a href="https://github.com/andersonhsporto/design-patterns-java/tree/main/src/java/builder">
                     <img align="center" height="25" src="./logos/java.svg" />
                 </a>
             </td>
@@ -467,7 +467,7 @@ um adapter para dois sistemas de coordenadas distintos.
                 </a>
             </td>
             <td> <!-- Java -->
-                <a href="https://github.com/andersonhsporto/design-patterns-java/tree/2-general-readme/src/java/adapter">
+                <a href="https://github.com/andersonhsporto/design-patterns-java/tree/main/src/java/adapter">
                     <img align="center" height="25" src="./logos/java.svg" />
                 </a>
             </td>
@@ -1339,7 +1339,7 @@ um adapter para dois sistemas de coordenadas distintos.
                 </a>
             </td>
             <td> <!-- Java -->
-                <a href="https://github.com/andersonhsporto/design-patterns-java/tree/2-general-readme/src/java/strategy">
+                <a href="https://github.com/andersonhsporto/design-patterns-java/tree/main/src/java/strategy">
                     <img align="center" height="25" src="./logos/java.svg" />
                 </a>
             </td>
@@ -1511,3 +1511,7 @@ um adapter para dois sistemas de coordenadas distintos.
 - [Java67](https://www.java67.com/2014/12/strategy-pattern-in-java-with-example.html) - How to use Strategy Design Pattern in Java
 - [javarevisited](https://javarevisited.blogspot.com/2020/05/top-10-educative-courses-for-programmers.html#axzz8IV7nH73K) - Builder design pattern in Java
 - [javarevisited](https://javarevisited.blogspot.com/2016/08/adapter-design-pattern-in-java-example.html#axzz8IgC9exUn) - Adapter design pattern in Java
+
+## Contribuição
+
+Sinta-se à vontade para contribuir com este projeto. Para isso, basta seguir as instruções [aqui](https://github.com/andersonhsporto/design-patterns-java/blob/main/CONTRIBUTING.md).
