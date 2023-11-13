@@ -17,7 +17,7 @@ Este padrão tem dois componentes principais: a interface Strategy e a classe Co
 
 **_Exemplo_**
 
-Um exemplo desse padrão de projeto em java está disponível [aqui](https://github.com/andersonhsporto/design-patterns-java/tree/main/src/strategy) onde foi implementado uma strategy
+Um exemplo desse padrão de projeto em java está disponível [aqui](https://github.com/andersonhsporto/design-patterns-java/tree/main/src/java/strategy) onde foi implementado uma strategy
 para algoritmos de ordenação.
 
 ## Criacional
@@ -29,7 +29,7 @@ do objetos em etapas fora de sua própria classe e mova ele para objetos separad
 
 **_Exemplo_**
 
-Um exemplo desse padrão de projeto em java está disponível [aqui](https://github.com/andersonhsporto/design-patterns-java/tree/main/src/builder).
+Um exemplo desse padrão de projeto em java está disponível [aqui](https://github.com/andersonhsporto/design-patterns-java/tree/main/src/java/builder).
 
 ## Estrutural
 
@@ -39,7 +39,7 @@ O padrão Adapter permite que você crie uma classe de meio termo que serve como
 
 **_Exemplo_**
 
-Um exemplo desse padrão de projeto em java está disponível [aqui](https://github.com/andersonhsporto/design-patterns-java/tree/main/src/adapter) onde neste foi implementado
+Um exemplo desse padrão de projeto em java está disponível [aqui](https://github.com/andersonhsporto/design-patterns-java/tree/main/src/java/adapter) onde neste foi implementado
 um adapter para dois sistemas de coordenadas distintos.
 
 ## Tabela de conteúdos
