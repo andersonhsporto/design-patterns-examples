@@ -233,8 +233,8 @@ um adapter para dois sistemas de coordenadas distintos.
                 </a>
             </td>
             <td> <!-- Java -->
-                <a href="./CONTRIBUTING.md">
-                    <img align="center" height="25" src="./logos/github.svg" />
+                <a href="https://github.com/andersonhsporto/design-patterns-java/tree/2-general-readme/src/java/builder">
+                    <img align="center" height="25" src="./logos/java.svg" />
                 </a>
             </td>
             <td> <!-- Python -->
@@ -467,8 +467,8 @@ um adapter para dois sistemas de coordenadas distintos.
                 </a>
             </td>
             <td> <!-- Java -->
-                <a href="./CONTRIBUTING.md">
-                    <img align="center" height="25" src="./logos/github.svg" />
+                <a href="https://github.com/andersonhsporto/design-patterns-java/tree/2-general-readme/src/java/adapter">
+                    <img align="center" height="25" src="./logos/java.svg" />
                 </a>
             </td>
             <td> <!-- Python -->
@@ -979,7 +979,181 @@ um adapter para dois sistemas de coordenadas distintos.
             </td>
         </tr>
         <tr>
-            <td><a href="https://refactoring.guru/design-patterns/bridge">Bridge</a></td>
+            <td><a href="https://refactoring.guru/design-patterns/command">Command</a></td>
+            <td> <!-- C -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- C++ -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Java -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Python -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Go -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Ruby -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- JavaScript -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Swift -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Rust -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Scala -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Kotlin -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+        </tr>
+		<tr>
+            <td><a href="https://refactoring.guru/design-patterns/iterator">Iterator</a></td>
+            <td> <!-- C -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- C++ -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Java -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Python -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Go -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Ruby -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- JavaScript -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Swift -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Rust -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Scala -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Kotlin -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+        </tr>
+		<tr>
+            <td><a href="https://refactoring.guru/design-patterns/mediator">Mediator</a></td>
+            <td> <!-- C -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- C++ -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Java -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Python -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Go -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Ruby -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- JavaScript -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Swift -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Rust -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Scala -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Kotlin -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+        </tr>
+		<tr>
+            <td><a href="https://refactoring.guru/design-patterns/memento">Memento</a></td>
             <td> <!-- C -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="./logos/github.svg" />
@@ -1037,7 +1211,7 @@ um adapter para dois sistemas de coordenadas distintos.
             </td>
         </tr>
         <tr>
-            <td><a href="https://refactoring.guru/design-patterns/composite">Composite</a></td>
+            <td><a href="https://refactoring.guru/design-patterns/observer">Observer</a></td>
             <td> <!-- C -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="./logos/github.svg" />
@@ -1095,7 +1269,7 @@ um adapter para dois sistemas de coordenadas distintos.
             </td>
         </tr>
         <tr>
-            <td><a href="https://refactoring.guru/design-patterns/decorator">Decorator</a></td>
+            <td><a href="https://refactoring.guru/design-patterns/state">State</a></td>
             <td> <!-- C -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="./logos/github.svg" />
@@ -1153,7 +1327,65 @@ um adapter para dois sistemas de coordenadas distintos.
             </td>
         </tr>
         <tr>
-            <td><a href="https://refactoring.guru/design-patterns/facade">Facade</a></td>
+            <td><a href="https://refactoring.guru/design-patterns/strategy">Strategy</a></td>
+            <td> <!-- C -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- C++ -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Java -->
+                <a href="https://github.com/andersonhsporto/design-patterns-java/tree/2-general-readme/src/java/strategy">
+                    <img align="center" height="25" src="./logos/java.svg" />
+                </a>
+            </td>
+            <td> <!-- Python -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Go -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Ruby -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- JavaScript -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Swift -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Rust -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Scala -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+            <td> <!-- Kotlin -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="./logos/github.svg" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="https://refactoring.guru/design-patterns/template-method">Template Method</a></td>
             <td> <!-- C -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="./logos/github.svg" />
@@ -1211,65 +1443,7 @@ um adapter para dois sistemas de coordenadas distintos.
             </td>
         </tr>
         <tr>
-            <td><a href="https://refactoring.guru/design-patterns/flyweight">Flyweight</a></td>
-            <td> <!-- C -->
-                <a href="./CONTRIBUTING.md">
-                    <img align="center" height="25" src="./logos/github.svg" />
-                </a>
-            </td>
-            <td> <!-- C++ -->
-                <a href="./CONTRIBUTING.md">
-                    <img align="center" height="25" src="./logos/github.svg" />
-                </a>
-            </td>
-            <td> <!-- Java -->
-                <a href="./CONTRIBUTING.md">
-                    <img align="center" height="25" src="./logos/github.svg" />
-                </a>
-            </td>
-            <td> <!-- Python -->
-                <a href="./CONTRIBUTING.md">
-                    <img align="center" height="25" src="./logos/github.svg" />
-                </a>
-            </td>
-            <td> <!-- Go -->
-                <a href="./CONTRIBUTING.md">
-                    <img align="center" height="25" src="./logos/github.svg" />
-                </a>
-            </td>
-            <td> <!-- Ruby -->
-                <a href="./CONTRIBUTING.md">
-                    <img align="center" height="25" src="./logos/github.svg" />
-                </a>
-            </td>
-            <td> <!-- JavaScript -->
-                <a href="./CONTRIBUTING.md">
-                    <img align="center" height="25" src="./logos/github.svg" />
-                </a>
-            </td>
-            <td> <!-- Swift -->
-                <a href="./CONTRIBUTING.md">
-                    <img align="center" height="25" src="./logos/github.svg" />
-                </a>
-            </td>
-            <td> <!-- Rust -->
-                <a href="./CONTRIBUTING.md">
-                    <img align="center" height="25" src="./logos/github.svg" />
-                </a>
-            </td>
-            <td> <!-- Scala -->
-                <a href="./CONTRIBUTING.md">
-                    <img align="center" height="25" src="./logos/github.svg" />
-                </a>
-            </td>
-            <td> <!-- Kotlin -->
-                <a href="./CONTRIBUTING.md">
-                    <img align="center" height="25" src="./logos/github.svg" />
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="https://refactoring.guru/design-patterns/proxy">Proxy</a></td>
+            <td><a href="https://refactoring.guru/design-patterns/visitor">Visitor</a></td>
             <td> <!-- C -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="./logos/github.svg" />
